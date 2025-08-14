@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Dimitris Perdikou",
+        "description": "As Government Chief Engineer at the Department for Science, Innovation and Technology, I lead the engineering across all government departments. I have over 10 years of experience in technology leadership roles, with a focus on data analytics and cloud technologies. I am passionate about leveraging data and cloud to turn information into valuable insights for critical business needs.",
+        "url": "https://cardiff.serverlessdays.io/speakers/dimitris",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755209089/serverlessdays/Dimitris_mqkfxa.jpg"
+    },
+    "speaker": {
+        "name": "Dimitris Perdikou",
+        "title": "UK Government Chief Engineer, DSIT",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755209089/serverlessdays/Dimitris_mqkfxa.jpg",
+        "bio": "As Government Chief Engineer at the Department for Science, Innovation and Technology, I lead the engineering across all government departments. I have over 10 years of experience in technology leadership roles, with a focus on data analytics and cloud technologies. I am passionate about leveraging data and cloud to turn information into valuable insights for critical business needs.",
+        "talk": {
+            "title": "The future of engineering in the UK Government​",
+            "abstract" : "The UK Government is responsible for delivering mission critical services that keep our country running. These are services we use on a daily basis and that many of us take for granted, but the failure of which would be catastrophic. With the growing adoption of public cloud, the challenges around cost control, and the rise of generative AI, what does that mean for the engineers of tomorrow looking to build the next generation of digital services. Come along and hear what the future of engineering might look like."
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
