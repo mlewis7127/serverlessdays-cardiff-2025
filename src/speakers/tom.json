@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Tom Collins",
+        "description": "Tom Collins is a principal software engineer who has worked in application development for over 20 years. He has been an early adopter of cloud and serverless having used it at multiple organisations including the BBC and the DVLA",
+        "url": "https://cardiff.serverlessdays.io/speakers/tom",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024621/TomCollins_cuhpak.jpg"
+    },
+    "speaker": {
+        "name": "Tom Collins",
+        "title": "Principal Engineer, DVLA",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024621/TomCollins_cuhpak.jpg",
+        "bio": "Tom Collins is a principal software engineer who has worked in application development for over 20 years. He has been an early adopter of cloud and serverless having used it at multiple organisations including the BBC and the DVLA",
+        "talk": {
+            "title": "Empowering the government's developers through AI​",
+            "abstract" : "Find out how different teams across local and central government are empowering their engineers to take advantage of AI to boost productivity. This talk brings together three Welsh based public sector organizations of different size and scale to look at how they are preparing and adapting their teams. Hear about the different journeys underway, and the various techniques and tools that are being adopted during a period of incredible change in the industry."
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
