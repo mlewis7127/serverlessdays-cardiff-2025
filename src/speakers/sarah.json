@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Sarah Neenan",
+        "description": "Sarah is a Full Stack Cloud Engineer in IBM Consulting. As an innovator and diversity champion, Sarah turns bold ideas into groundbreaking solutions; empowering underrepresented voices, inspiring girls in STEM, and proving tech can break barriers and transform lives.",
+        "url": "https://cardiff.serverlessdays.io/speakers/sarah",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755209254/serverlessdays/SarahNeenan_kwgn38.jpg"
+    },
+    "speaker": {
+        "name": "Sarah Neenan",
+        "title": "Chief Engineer, IBM",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755209254/serverlessdays/SarahNeenan_kwgn38.jpg",
+        "bio": "Sarah is a Full Stack Cloud Engineer in IBM Consulting. As an innovator and diversity champion, Sarah turns bold ideas into groundbreaking solutions; empowering underrepresented voices, inspiring girls in STEM, and proving tech can break barriers and transform lives.",
+        "talk": {
+            "title": "Serverless, Spot, and Smashing Barriers: Tech for Good in Action​",
+            "abstract" : "What happens when you combine AWS cloud architecture, Spot the robot dog, and a team of 8–11 year-old girls? You help a paralysed photographer achieve a world first: directing a high-fashion photoshoot remotely, in real time. In this talk, I’ll share how we used an AWS STS VPN to connect a custom built control board to the robot to give the photographer the tools to control Spot over 4G with millisecond latency – turning a complex robotics challenge into an empowering social impact project. Along the way, we navigated no budget, custom hardware builds, and innovative problem-solving, all while inspiring the next generation of women in tech. Come hear how serverless tech can change lives, challenge stereotypes, and make history."
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

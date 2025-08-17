@@ -2,10 +2,29 @@
     "layout": "workshops.njk",
     "page": {
         "title": "ServerlessDays Cardiff - Workshops",
-        "description": "We are hoping to run a number of hands-on workshops the day before the main conference. Access will be available to those who have a conference ticket. The intention is to give people experience building serverless applications supported by experts. If you or your organisation are interested in running a workshop, please get in touch at cardiff@serverlessdays.io",
+        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
         "url": "https://cardiff.serverlessdays.io/workshops",
-        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
     },
     "workshops": [   
+        
+        {
+            "title": "Building and Scaling Agentic AI Workflows",
+            "description": "Welcome to the Building and Scaling Agentic AI Workflows workshop! This workshop provides a hands-on experience for implementing agentic AI patterns using Amazon Bedrock, AWS Step Functions, and AWS Lambda. Learn about the different ways to implement Agentic AI. Compare and contrast the approaches and choose the one for your use case.",
+            "date": "22 Oct 2025",
+            "link": "./aws",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "4.0 hours",
+            "start": "TBD",
+            "location": "TBD",
+            "capacity": "35",
+            "speakers": [
+                {
+                  "name": "Michael Hume",
+                  "title": "AWS Senior Solutions Architect & UKPS Serverless Lead",
+                  "company": "AWS"
+                }
+            ]
+        }
     ]
 }
