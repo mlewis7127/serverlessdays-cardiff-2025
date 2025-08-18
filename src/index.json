@@ -24,9 +24,24 @@
       }
   },
   "sponsors": {
-    "gold": [  
+    "gold": [
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,w_200/v1690037756/mobilise_yz9u49.png",
+        "alt": "Mobilise",
+        "link": "https://www.mobilise.cloud/"    
+      }
     ],
     "silver": [
+      {
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload//c_scale,w_150/v1755552356/DVLA_Lesser_Arms_Stacked_Pantone_white_zhexst.png",
+        "alt": "DVLA",
+        "link": "https://careers.dft.gov.uk/our-dft-family/driver-and-vehicle-licensing-agency/digital/"
+      },
+      {
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,w_150/v1755551759/Creditsafe-Logo-White_gaefxv.png",
+        "alt": "Creditsafe",
+        "link": "https://www.creditsafe.com/"
+      }
     ],
     "bronze": [
     ],
