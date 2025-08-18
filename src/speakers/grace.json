@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Grace Briody",
+        "description": "Grace has been working with customers to build cloud native architectures, first as a Solutions Architect at AWS and now at Microsoft as a Solutions Engineer for Cloud and AI Apps. She has a love for all things Containers and Kubernetes, and uses her Teaching background to make sure that even the most complex topics can be accessible to all audiences.",
+        "url": "https://cardiff.serverlessdays.io/speakers/grace",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg"
+    },
+    "speaker": {
+        "name": "Grace Briody",
+        "title": "Solutions Engineer for Cloud and AI Apps, Microsoft",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
+        "bio": "Grace has been working with customers to build cloud native architectures, first as a Solutions Architect at AWS and now at Microsoft as a Solutions Engineer for Cloud and AI Apps. She has a love for all things Containers and Kubernetes, and uses her Teaching background to make sure that even the most complex topics can be accessible to all audiences.",
+        "talk": {
+            "title": "Hold the functions; Containers can be serverless too!​",
+            "abstract" : "Often Containers get left out the conversation as the move to serverless takes over, but they shouldn’t be! Azure Container Apps allows you to build event driven micro service architectures that are serverless while keeping infrastructure overhead to a minimum. Whether adopting a serverless first strategy or looking to move away from hosting simple work loads in sprawling Kubernetes Clusters, here’s an answer to how to have the best of both worlds. Let’s dive in the benefits of keeping Containers in the picture without compromising on the benefits of a serverless approach."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/grace-briody-2542a38b/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

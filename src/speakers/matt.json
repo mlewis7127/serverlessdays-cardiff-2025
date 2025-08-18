@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Matt Johnson",
+        "description": "Matt has been working with AWS technology since 2011, including 8.5 years at AWS itself; first as a Solutions Architect, and then in a Chief Technologist role for the UK public sector team. During that time he has presented at 6 separate re:Invents and dozens of other AWS and 3rd party events, covering a range of topics including: networking, DNS, cost optimisation, and the Amazon Culture of Innovation. Now as CEO of Rayo (an AWS Advanced Partner, Matt continues to help customers make use of cloud to deliver great outcomes for the public sector and beyond.",
+        "url": "https://cardiff.serverlessdays.io/speakers/matt",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543216/serverlessdays/MattJ_zpzhur.jpg"
+    },
+    "speaker": {
+        "name": "Matt Johnson",
+        "title": "CEO, Rayo",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543216/serverlessdays/MattJ_zpzhur.jpg",
+        "bio": "Matt has been working with AWS technology since 2011, including 8.5 years at AWS itself; first as a Solutions Architect, and then in a Chief Technologist role for the UK public sector team. During that time he has presented at 6 separate re:Invents and dozens of other AWS and 3rd party events, covering a range of topics including: networking, DNS, cost optimisation, and the Amazon Culture of Innovation. Now as CEO of Rayo (an AWS Advanced Partner, Matt continues to help customers make use of cloud to deliver great outcomes for the public sector and beyond.",
+        "talk": {
+            "title": "Adventures in cost control: tales from the trenches​",
+            "abstract" : "There are lots of sessions that talk about the theory of cost management and tooling available on AWS, but far less look at the real world challenges of using those, as well as the rough edges they have. In this session Matt will cover some of the hard lessons learned from working with AWS over the last 14 years, with real-world examples of cost management done well and… not so well! The presentation is aimed at both those new to AWS and to veterans of the platform, and include practical advice and technical guidance on how to improve your cost management on AWS."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/mhjwork/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

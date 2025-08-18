@@ -16,6 +16,11 @@
             "abstract" : "The UK Government is responsible for delivering mission critical services that keep our country running. These are services we use on a daily basis and that many of us take for granted, but the failure of which would be catastrophic. With the growing adoption of public cloud, the challenges around cost control, and the rise of generative AI, what does that mean for the engineers of tomorrow looking to build the next generation of digital services. Come along and hear what the future of engineering might look like."
         },
         "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/dimitris-perdikou/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
         ],
         "links": [
             {

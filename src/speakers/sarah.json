@@ -16,6 +16,11 @@
             "abstract" : "What happens when you combine AWS cloud architecture, Spot the robot dog, and a team of 8–11 year-old girls? You help a paralysed photographer achieve a world first: directing a high-fashion photoshoot remotely, in real time. In this talk, I’ll share how we used an AWS STS VPN to connect a custom built control board to the robot to give the photographer the tools to control Spot over 4G with millisecond latency – turning a complex robotics challenge into an empowering social impact project. Along the way, we navigated no budget, custom hardware builds, and innovative problem-solving, all while inspiring the next generation of women in tech. Come hear how serverless tech can change lives, challenge stereotypes, and make history."
         },
         "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/sneenan/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
         ],
         "links": [
             {

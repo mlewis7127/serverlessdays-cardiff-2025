@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Alex Le Peltier",
+        "description": "I am a technologist with over 13 years of experience in both the public and private sectors. I have worked in various industries, from fintech to life sciences, and I am a serial entrepreneur. I am passionate about using technology to enhance lives and improve the world around us.",
+        "url": "https://cardiff.serverlessdays.io/speakers/alex",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543474/serverlessdays/AlexLP_u6t9aj.jpg"
+    },
+    "speaker": {
+        "name": "Alex Le Peltier",
+        "title": "VP of Engineering, Signapse",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543474/serverlessdays/AlexLP_u6t9aj.jpg",
+        "bio": "I am a technologist with over 13 years of experience in both the public and private sectors. I have worked in various industries, from fintech to life sciences, and I am a serial entrepreneur. I am passionate about using technology to enhance lives and improve the world around us.",
+        "talk": {
+            "title": "AI generated Sign Language for live streaming and events​",
+            "abstract" : "Why is the world not accessible to everyone? This is a question we often ask. It’s shocking to realise that the average reading level of a Deaf individual in the UK is only 8 years old. That’s where Signapse comes in. Our mission is to bridge the gap between the hearing and Deaf communities through generative AI, translating the world’s digital content into every sign language available. Signapse’s latest solution is the first product in the world that enables real-time translation of any text, audio, or video into sign language at scale and for a fraction of the cost of human translators. This product is not meant to replace human translators; rather, it aims to make mass market accessibility viable for everyone, helping to finally close the accessibility divide. In this talk, I will explain how we harness the power of services like Lambda, Kinesis, DynamoDB, and Transcribe to bring this product to life. By utilizing serverless technology, we can stream content to thousands of devices while meeting SLAs for major online streamers and broadcasters. I might even dare to give a live demo if everyone is feeling adventurous!"
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/alex-le-peltier/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
