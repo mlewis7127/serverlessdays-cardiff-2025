@@ -20,6 +20,11 @@
                 "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_140/v1690037756/mobilise_yz9u49.svg",
                 "alt": "Mobilise",
                 "link": "https://www.mobilise.cloud/"    
+            },
+            {
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_140/v1528241128/Amazon_Web_Services_Logo_white.png",
+                "alt": "Amazon Web Services",
+                "link": "https://aws.amazon.com"    
             }
         ],
         "silver": [
