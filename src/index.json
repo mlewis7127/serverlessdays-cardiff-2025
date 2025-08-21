@@ -56,6 +56,30 @@
   "speakers": {
       "text": "We are excited to bring a number of incredible speakers to Cardiff to share their stories on a range of topics. Although serverless is a theme that will run throughout the day, with recent seismic changes in the software industry, we want to hear about the impact of generative AI, digital sovereignty, cloud financial management and cloud security amongst other themes. We hope to announce speakers following the call for papers covering a variety of areas on different cloud providers.",
       "lineup": [
+                {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755209089/serverlessdays/Dimitris_mqkfxa.jpg",
+          "alt": "speakers/dimitris",
+          "link": "/speakers/dimitris",
+          "talk": "The future of engineering in the UK Government"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721934748/serverlessdays/yan_cui_fkmr04.jpg",
+          "alt": "Yan Cui",
+          "link": "/speakers/yan",
+          "talk": "How we built an AI-powered code reviewer with serverless and Bedrock"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755544154/serverlessdays/GraceB_ga5n1c.jpg",
+          "alt": "Grace Briody",
+          "link": "/speakers/grace",
+          "talk": "Hold the functions; Containers can be serverless too!"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543216/serverlessdays/MattJ_zpzhur.jpg",
+          "alt": "Matt Johnson",
+          "link": "/speakers/matt",
+          "talk": "Adventures in cost control: tales from the trenches"
+        }
     ]
   },
   "agenda": [
