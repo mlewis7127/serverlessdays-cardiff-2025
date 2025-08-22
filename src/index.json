@@ -79,6 +79,12 @@
           "alt": "Matt Johnson",
           "link": "/speakers/matt",
           "talk": "Adventures in cost control: tales from the trenches"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755209254/serverlessdays/SarahNeenan_kwgn38.jpg",
+          "alt": "Sarah Neenan",
+          "link": "/speakers/sarah",
+          "talk": "Serverless, Spot, and Smashing Barriers: Tech for Good in Action"
         }
     ]
   },
