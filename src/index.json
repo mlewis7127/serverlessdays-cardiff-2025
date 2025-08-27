@@ -85,6 +85,12 @@
           "alt": "Sarah Neenan",
           "link": "/speakers/sarah",
           "talk": "Serverless, Spot, and Smashing Barriers: Tech for Good in Action"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1755543474/serverlessdays/AlexLP_u6t9aj.jpg",
+          "alt": "Alex Le Peltier",
+          "link": "/speakers/alex",
+          "talk": "AI generated Sign Language for live streaming and events"
         }
     ]
   },
