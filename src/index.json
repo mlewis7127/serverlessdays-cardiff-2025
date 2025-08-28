@@ -91,6 +91,12 @@
           "alt": "Alex Le Peltier",
           "link": "/speakers/alex",
           "talk": "AI generated Sign Language for live streaming and events"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024621/TomCollins_cuhpak.jpg",
+          "alt": "Tom Collins",
+          "link": "/speakers/tom",
+          "talk": "Empowering the government's developers through AI"
         }
     ]
   },

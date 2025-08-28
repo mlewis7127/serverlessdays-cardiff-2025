@@ -16,6 +16,11 @@
             "abstract" : "Find out how different teams across local and central government are empowering their engineers to take advantage of AI to boost productivity. This talk brings together three Welsh based public sector organizations of different size and scale to look at how they are preparing and adapting their teams. Hear about the different journeys underway, and the various techniques and tools that are being adopted during a period of incredible change in the industry."
         },
         "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/tom-collins-27894bb/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
         ],
         "links": [
             {
