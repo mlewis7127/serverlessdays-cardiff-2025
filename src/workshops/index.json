@@ -6,17 +6,35 @@
         "url": "https://cardiff.serverlessdays.io/workshops",
         "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
     },
-    "workshops": [   
+    "workshops": [  
         
+            {
+            "title": "GitHub CoPilot Custom MCP Server with Azure Functions",
+            "description": "Learn how to use GitHub CoPilot Agent Mode and a custom MCP server to extend CoPilot's agentic capabilities. In this workshop we will host a serverless MCP server on Azure Functions. Tools such as markdown review and dependency checks will be available to CoPilot through the MCP server showcasing an agentic development experience.",
+            "date": "22 Oct 2025",
+            "link": "./microsoft",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+            "duration": "3.5 hours",
+            "start": "09:00",
+            "location": "CGI, 5th Floor, One Central Square",
+            "capacity": "35",
+            "speakers": [
+                {
+                  "name": "Owain Osborne-Walsh",
+                  "title": "Senior Technologist - AI, Cloud Native & App Platforms",
+                  "company": "Microsoft"
+                }
+            ]
+        },
         {
             "title": "Building and Scaling Agentic AI Workflows",
             "description": "Welcome to the Building and Scaling Agentic AI Workflows workshop! This workshop provides a hands-on experience for implementing agentic AI patterns using Amazon Bedrock, AWS Step Functions, and AWS Lambda. Learn about the different ways to implement Agentic AI. Compare and contrast the approaches and choose the one for your use case.",
             "date": "22 Oct 2025",
             "link": "./aws",
             "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
-            "duration": "4.0 hours",
-            "start": "TBD",
-            "location": "TBD",
+            "duration": "3.0 hours",
+            "start": "13:30",
+            "location": "CGI, 5th Floor, One Central Square",
             "capacity": "35",
             "speakers": [
                 {

@@ -7,9 +7,10 @@
         "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
         "session": {
             "prerequisites": "Please bring your laptop for the hands-on workshop.",
-            "location": "TBD",
+            "location": "CGI, 5th Floor, One Central Square",
             "when": "22 October 2025",
-            "duration": "4.0 hours"
+            "starttime": "13:30",
+            "duration": "3.0 hours"
         },
         "speakers": [
             {

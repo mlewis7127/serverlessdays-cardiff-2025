@@ -1,0 +1,30 @@
+{
+    "layout": "workshop.njk",
+    "workshop": {
+        "title": "GitHub CoPilot Custom MCP Server with Azure Functions",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+        "description": "Learn how to use GitHub CoPilot Agent Mode and a custom MCP server to extend CoPilot's agentic capabilities. In this workshop we will host a serverless MCP server on Azure Functions. Tools such as markdown review and dependency checks will be available to CoPilot through the MCP server showcasing an agentic development experience.",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "CGI, 5th Floor, One Central Square",
+            "when": "22 October 2025",
+            "starttime": "09:00",
+            "duration": "3.5 hours"
+        },
+        "speakers": [
+            {
+                "name": "Owain Osborne-Walsh",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/ar_1:1,c_fill,e_art:hokusai,g_auto,w_250/v1689755391/owain_rdvjqo.jpg",
+                "bio": "Owain is a Senior Technologist at Microsoft focussing on AI, Cloud Native & App Platforms. Owain's passions centre around accelerating customer time to market through innovative well architected technical solutions. Prior to Microsoft Owain worked at AWS, Red Hat and IBM.",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/oow/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            }
+        ]
+    }
+}
