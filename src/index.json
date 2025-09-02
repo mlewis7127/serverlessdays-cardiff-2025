@@ -97,6 +97,12 @@
           "alt": "Tom Collins",
           "link": "/speakers/tom",
           "talk": "Empowering the government's developers through AI"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
+          "alt": "Julian Wood",
+          "link": "/speakers/julian",
+          "talk": "What's new in AWS Lambda"
         }
     ]
   },
