@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Laura Hyatt",
+        "description": "Senior Customer Engineer for Financial Services, Google Cloud",
+        "url": "https://cardiff.serverlessdays.io/speakers/laura",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1756985509/laura_sjlxxf.jpg"
+    },
+    "speaker": {
+        "name": "Laura Hyatt",
+        "title": "Senior Customer Engineer for Financial Services, Google Cloud",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1756985509/laura_sjlxxf.jpg",
+        "bio": "Laura is a Senior Customer Engineer for Financial Services at Google Cloud. With over 10 years of technical experience, her specialism is in resilience and disaster recovery. As well as working with financial customers on their Cloud architecture, she also is the Reliability Pillar lead for the Google Cloud Well Architected Framework, and recently wrote the official documentation.",
+        "talk": {
+            "title": "Designing Resilient Cloud Architectures",
+            "abstract" : "When building a system for cloud, whether using serverless or other approaches, you need to design it to be resilient to withstand these failures. This talk the lessons from over ten years spent at Google and AWS, helping customers around the world make sure their architecture is resilient and they are prepared in the event of outages."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/laura-hyatt/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

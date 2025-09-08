@@ -34,6 +34,11 @@
         "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_125/v1528241128/Amazon_Web_Services_Logo_white.png",
         "alt": "Amazon Web Services",
         "link": "https://aws.amazon.com"    
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_100/v1757361947/CGI_logo_color_rgb_zwetuq.png",
+        "alt": "CGI",
+        "link": "https://aws.amazon.com"    
       }
     ],
     "silver": [
@@ -103,6 +108,12 @@
           "alt": "Julian Wood",
           "link": "/speakers/julian",
           "talk": "What's new in AWS Lambda"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1756985509/laura_sjlxxf.jpg",
+          "alt": "Laura Hyatt",
+          "link": "/speakers/laura",
+          "talk": "Building Resilient Cloud Architectures"
         }
     ]
   },
