@@ -135,14 +135,127 @@
     },
     {
       "time": "09:30",
-      "name": "Opening Talk",
+      "name": "Morning Keynote",
+      "title": "The future of engineering in the UK Government​",
       "speaker": [
         {
-          "name": "TBC"
+          "name": "Dimitris Perdikou",
+          "link": "/speakers/dimitris"
         }
       ],
       "type": "talk"
     },
+    {
+      "time": "10:20",
+      "name": "Talk",
+      "title": "How we built an AI powered code reviewer with Serverless and Bedrock",
+      "speaker": [
+        {
+          "name": "Yan Cui",
+          "link": "/speakers/yan"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "10:50",
+      "name": "Break",
+      "type": "break"
+    },
+    {
+      "time": "11:20",
+      "name": "Talk",
+      "title": "Serverless, Spot, and Smashing Barriers: Tech for Good in Action​",
+      "speaker": [
+        {
+          "name": "Sarah Neenan",
+          "link": "/speakers/sarah"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "11:50",
+      "name": "Talk",
+      "title": "Adventures in cost control: tales from the trenches​​",
+      "speaker": [
+        {
+          "name": "Matt Johnson",
+          "link": "/speakers/matt"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "12:20",
+      "name": "Talk",
+      "title": "Designing Resilient Cloud Architectures​",
+      "speaker": [
+        {
+          "name": "Laura Hyatt",
+          "link": "/speakers/laura"
+        }
+      ],
+      "type": "talk"
+    },   
+    {
+      "time": "12:45",
+      "name": "Lunch",
+      "type": "break"
+    },
+    {
+      "time": "14:00",
+      "name": "Talk",
+      "title": "What's new in AWS Lambda​",
+      "speaker": [
+        {
+          "name": "Julian Wood",
+          "link": "/speakers/julian"
+        }
+      ],
+      "type": "talk"
+    }, 
+    {
+      "time": "14:40",
+      "name": "Talk",
+      "title": "Hold the functions; Containers can be serverless too!​",
+      "speaker": [
+        {
+          "name": "Grace Briody",
+          "link": "/speakers/grace"
+        }
+      ],
+      "type": "talk"
+    }, 
+    {
+      "time": "15:05",
+      "name": "Break",
+      "type": "break"
+    },
+    {
+      "time": "15:40",
+      "name": "Talk",
+      "title": "AI generated Sign Language for live streaming and events​​",
+      "speaker": [
+        {
+          "name": "Alex Le Peltier",
+          "link": "/speakers/alex"
+        }
+      ],
+      "type": "talk"
+    },
+    {
+      "time": "16:10",
+      "name": "Talk",
+      "title": "Empowering the government's developers through AI​​​",
+      "speaker": [
+        {
+          "name": "Tom Collins",
+          "link": "/speakers/tom"
+        }
+      ],
+      "type": "talk"
+    },  
     {
       "time": "17:15",
       "name": "Closing Remarks",
