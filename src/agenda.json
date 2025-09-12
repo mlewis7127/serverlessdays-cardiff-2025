@@ -117,12 +117,29 @@
       "type": "talk"
     }, 
     {
-      "time": "15:05",
+      "time": "15:10",
+      "name": "Lightning Talk",
+      "title": "Developing Serverless Applications at DVSA​",
+      "speaker": [
+        {
+          "name": "Shaun Hare",
+          "link": "/speakers/shaun"
+        },
+        {
+          "name": "Anna Dobson",
+          "link": "/speakers/anna"
+        }
+
+      ],
+      "type": "lightning"
+    }, 
+    {
+      "time": "15:25",
       "name": "Break",
       "type": "break"
     },
     {
-      "time": "15:40",
+      "time": "16:00",
       "name": "Talk",
       "title": "AI generated Sign Language for live streaming and events​​",
       "speaker": [
@@ -134,7 +151,7 @@
       "type": "talk"
     },
     {
-      "time": "16:10",
+      "time": "16:30",
       "name": "Talk",
       "title": "Empowering the government's developers through AI​​​",
       "speaker": [
@@ -143,7 +160,7 @@
           "link": "/speakers/tom"
         }
       ],
-      "type": "keynote"
+      "type": "talk"
     },  
     {
       "time": "17:15",

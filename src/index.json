@@ -114,6 +114,18 @@
           "alt": "Laura Hyatt",
           "link": "/speakers/laura",
           "talk": "Building Resilient Cloud Architectures"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1757606984/ShaunH_pgqun1.jpg",
+          "alt": "Shaun Hare",
+          "link": "/speakers/shaun",
+          "talk": "Developing Serverless Applications at DVSA"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1757606986/AnnaD_sxazdu.jpg",
+          "alt": "Anna Dodson",
+          "link": "/speakers/anna",
+          "talk": "Developing Serverless Applications at DVSA"
         }
     ]
   },
@@ -228,12 +240,29 @@
       "type": "talk"
     }, 
     {
-      "time": "15:05",
+      "time": "15:10",
+      "name": "Talk",
+      "title": "Developing Serverless Applications at DVSA​",
+      "speaker": [
+        {
+          "name": "Shaun Hare",
+          "link": "/speakers/shaun"
+        },
+        {
+          "name": "Anna Dobson",
+          "link": "/speakers/anna"
+        }
+
+      ],
+      "type": "talk"
+    }, 
+    {
+      "time": "15:25",
       "name": "Break",
       "type": "break"
     },
     {
-      "time": "15:40",
+      "time": "16:00",
       "name": "Talk",
       "title": "AI generated Sign Language for live streaming and events​​",
       "speaker": [
@@ -245,7 +274,7 @@
       "type": "talk"
     },
     {
-      "time": "16:10",
+      "time": "16:30",
       "name": "Talk",
       "title": "Empowering the government's developers through AI​​​",
       "speaker": [

@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Shaun Hare",
+        "description": "Principal Developer Application Development, DVSA",
+        "url": "https://cardiff.serverlessdays.io/speakers/shaun",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1757606984/ShaunH_pgqun1.jpg"
+    },
+    "speaker": {
+        "name": "Shaun Hare",
+        "title": "Principal Developer Application Development, DVSA",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1757606984/ShaunH_pgqun1.jpg",
+        "bio": "Shaun is Principal Developer for Application Development at the DVSA.",
+        "talk": {
+            "title": "Developing Serverless Applications at DVSA",
+            "abstract" : "At the Driver and Standards Agency (DVSA) we have been developing serverless applications for several years. In this talk, we will cover some of the open source projects we have adopted, alongside the benefits we get from serverless, such as scalability, cost-effectiveness and reduced operational overhead. This session includes practical examples and insights into our development process, showcasing how we use AWS services to create high volume, efficient and reliable solutions. Delivering digital solutions that help keep Britain’s roads safe."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/shaundhare/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
