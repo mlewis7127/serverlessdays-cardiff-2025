@@ -10,7 +10,7 @@
         "name": "Shaun Hare",
         "title": "Principal Developer Application Development, DVSA",
         "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1757606984/ShaunH_pgqun1.jpg",
-        "bio": "Shaun is Principal Developer for Application Development at the DVSA.",
+        "bio": "Shaun Hare is a Principal Developer at the Driver and Vehicle Standards Agency (DVSA), where he leads modernisation efforts across government digital services. With a focus on serverless architecture and secure authentication, Shaun has delivered scalable, cloud-native solutions that improve efficiency and resilience. His recent work includes intelligent document processing using AWS services, aligned with government AI principles. Shaun is also a member of the management committee for the Cross Government Software Engineering Community, helping shape best practices and collaboration across departments.",
         "talk": {
             "title": "Developing Serverless Applications at DVSA",
             "abstract" : "At the Driver and Standards Agency (DVSA) we have been developing serverless applications for several years. In this talk, we will cover some of the open source projects we have adopted, alongside the benefits we get from serverless, such as scalability, cost-effectiveness and reduced operational overhead. This session includes practical examples and insights into our development process, showcasing how we use AWS services to create high volume, efficient and reliable solutions. Delivering digital solutions that help keep Britain’s roads safe."

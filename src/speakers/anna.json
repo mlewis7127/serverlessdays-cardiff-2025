@@ -10,7 +10,7 @@
         "name": "Anna Dodson",
         "title": "Lead Developer Application Development, DVSA",
         "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1757606986/AnnaD_sxazdu.jpg",
-        "bio": "Anna is Lead Developer for Application Development at the DVSA.",
+        "bio": "Anna Dodson is Lead Developer at DVSA, where she leads the team delivering the agency-wide Customer Payment Services API, ensuring secure, scalable, and resilient transaction processing. She has designed event-driven architectures and guided a major migration to support high-volume payment flows across MOT, Theory Test, and other schemes. Anna also runs Women in Tech Nottingham.",
         "talk": {
             "title": "Developing Serverless Applications at DVSA",
             "abstract" : "At the Driver and Standards Agency (DVSA) we have been developing serverless applications for several years. In this talk, we will cover some of the open source projects we have adopted, alongside the benefits we get from serverless, such as scalability, cost-effectiveness and reduced operational overhead. This session includes practical examples and insights into our development process, showcasing how we use AWS services to create high volume, efficient and reliable solutions. Delivering digital solutions that help keep Britain’s roads safe."
