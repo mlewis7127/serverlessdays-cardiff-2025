@@ -15,8 +15,8 @@
       "hero": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
       "tagline": "One Day. One Track. One Community",
       "cta": {
-          "path": "https://www.papercall.io/sls-days-cardiff-2025",
-          "name": "Call for Papers"
+          "path": "/tickets",
+          "name": "Tickets"
       },
       "altCTA": {
           "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus-2025.pdf",
@@ -126,6 +126,12 @@
           "alt": "Anna Dodson",
           "link": "/speakers/anna",
           "talk": "Developing Serverless Applications at DVSA"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1758056212/Fahad_tozmsl.jpg",
+          "alt": "Dr. Fahad Anwar",
+          "link": "/speakers/fahad",
+          "talk": "Empowering the government's developers through AI"
         }
     ]
   },
@@ -281,6 +287,10 @@
         {
           "name": "Tom Collins",
           "link": "/speakers/tom"
+        },
+        {
+          "name": "Dr. Fahad Anwar",
+          "link": "/speakers/fahad"
         }
       ],
       "type": "talk"

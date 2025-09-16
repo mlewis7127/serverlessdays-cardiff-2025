@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Dr. Fahad Anwar",
+        "description": "Fahad is the Head of Software Engineering at ONS. He is a highly skilled IT leader with the blend of free-thinking imagination, deep technology knowledge, and pragmatic business sense to craft new opportunities for companies and customers. He is also the author of multiple internationally published technical articles in difference conferences and journals.",
+        "url": "https://cardiff.serverlessdays.io/speakers/fahad",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1758056212/Fahad_tozmsl.jpg"
+    },
+    "speaker": {
+        "name": "Dr. Fahad Anwar",
+        "title": "Head of Software Engineering, ONS",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1758056212/Fahad_tozmsl.jpg",
+        "bio": "Fahad is the Head of Software Engineering at ONS. He is a highly skilled IT leader with the blend of free-thinking imagination, deep technology knowledge, and pragmatic business sense to craft new opportunities for companies and customers. He is also the author of multiple internationally published technical articles in difference conferences and journals.",
+        "talk": {
+            "title": "Empowering the government's developers through AI​",
+            "abstract" : "Find out how different teams across local and central government are empowering their engineers to take advantage of AI to boost productivity. This talk brings together three Welsh based public sector organizations of different size and scale to look at how they are preparing and adapting their teams. Hear about the different journeys underway, and the various techniques and tools that are being adopted during a period of incredible change in the industry."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/fbanwar/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
