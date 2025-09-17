@@ -13,7 +13,13 @@
         </div>
         <div>
             {% for speaker in item.speaker %}
-                <div><a class="no-underline secondaryColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
+                <div class="f5 b"><a class="no-underline secondaryColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
+                <div class="f5">
+                    {{ speaker.title }}
+                </div>
+                <div class="f5">
+                    {{ speaker.company }}
+                </div>
             {% endfor %}
         </div>
     </div>
@@ -26,11 +32,17 @@
                 <div class="f5 pv2">{{ item.abstract }}</div>
             </span>
         </div>
-        <div>
-            {% for speaker in item.speaker %}
+        {% for speaker in item.speaker %}
+        <div class="f5 b">
                 <div><a class="no-underline tertiaryColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
-            {% endfor %}
         </div>
+        <div class="f5">
+            {{ speaker.title }}
+        </div>
+        <div class="f5">
+            {{ speaker.company }}
+        </div>
+        {% endfor %}
     </div>
 {% elif item.type=='lightning' %}
     <div class="h-100 ph3 ph4-l pv2 tl ba b--transparent br3 secondaryConstrastBkg secondaryContrastColor"> 
