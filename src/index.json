@@ -51,6 +51,11 @@
         "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,w_150/v1755551759/Creditsafe-Logo-White_gaefxv.png",
         "alt": "Creditsafe",
         "link": "https://www.creditsafe.com/"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1758112179/Starling1_qefsll.png",
+        "alt": "Starling",
+        "link": "https://www.starlingbank.com/"
       }
     ],
     "bronze": [
