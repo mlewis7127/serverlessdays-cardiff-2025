@@ -17,11 +17,17 @@
                                 <div class="f5 i">
                                     {{ session.name }}
                                 </div>
+                                {% for speaker in session.speaker %}
                                 <div class="f5 b">
-                                    {% for speaker in session.speaker %}
-                                        <div><a class="no-underline contrastColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>
-                                    {% endfor %}
+                                        <div><a class="no-underline contrastColor" href="{{speaker.link}}">{{ speaker.name }}</a></div>                                
                                 </div>
+                                <div class="f5">
+                                        {{ speaker.title }}
+                                </div>
+                                <div class="f5">
+                                        {{ speaker.company }}
+                                </div>
+                                {% endfor %}
                             </div>
                         </div>
                     </div>

@@ -29,10 +29,12 @@
       "speaker": [
         {
           "name": "Dimitris Perdikou",
-          "link": "/speakers/dimitris"
+          "link": "/speakers/dimitris",
+          "title": "UK Government Chief Engineer",
+          "company": "DSIT"
         }
       ],
-      "type": "keynote"
+      "type": "talk"
     },
     {
       "time": "10:20",
@@ -41,7 +43,9 @@
       "speaker": [
         {
           "name": "Yan Cui",
-          "link": "/speakers/yan"
+          "link": "/speakers/yan",
+          "title": "Developer Advocate",
+          "company": "Lumigo"
         }
       ],
       "type": "talk"
@@ -58,7 +62,9 @@
       "speaker": [
         {
           "name": "Sarah Neenan",
-          "link": "/speakers/sarah"
+          "link": "/speakers/sarah",
+          "title": "Chief Engineer",
+          "company": "IBM"
         }
       ],
       "type": "talk"
@@ -70,7 +76,9 @@
       "speaker": [
         {
           "name": "Matt Johnson",
-          "link": "/speakers/matt"
+          "link": "/speakers/matt",
+          "title": "CEO",
+          "company": "Rayo"
         }
       ],
       "type": "talk"
@@ -82,7 +90,9 @@
       "speaker": [
         {
           "name": "Laura Hyatt",
-          "link": "/speakers/laura"
+          "link": "/speakers/laura",
+          "title": "Senior Customer Engineer",
+          "company": "Google Cloud"
         }
       ],
       "type": "talk"
@@ -99,7 +109,9 @@
       "speaker": [
         {
           "name": "Julian Wood",
-          "link": "/speakers/julian"
+          "link": "/speakers/julian",
+          "title": "Principal Developer Advocate",
+          "company": "AWS"
         }
       ],
       "type": "talk"
@@ -111,27 +123,31 @@
       "speaker": [
         {
           "name": "Grace Briody",
-          "link": "/speakers/grace"
+          "link": "/speakers/grace",
+          "title": "Solutions Engineer for Cloud and AI Apps",
+          "company": "Microsoft"
         }
       ],
       "type": "talk"
     }, 
     {
       "time": "15:10",
-      "name": "Lightning Talk",
+      "name": "Talk",
       "title": "Developing Serverless Applications at DVSA​",
       "speaker": [
         {
           "name": "Shaun Hare",
-          "link": "/speakers/shaun"
+          "link": "/speakers/shaun",
+          "title": "Principal Developer - DVSA"
         },
         {
           "name": "Anna Dobson",
-          "link": "/speakers/anna"
+          "link": "/speakers/anna",
+          "title": "Lead Developer - DVSA"
         }
 
       ],
-      "type": "lightning"
+      "type": "talk"
     }, 
     {
       "time": "15:25",
@@ -145,7 +161,9 @@
       "speaker": [
         {
           "name": "Alex Le Peltier",
-          "link": "/speakers/alex"
+          "link": "/speakers/alex",
+          "title": "VP of Engineering",
+          "company": "Signapse"
         }
       ],
       "type": "talk"
@@ -157,7 +175,15 @@
       "speaker": [
         {
           "name": "Tom Collins",
-          "link": "/speakers/tom"
+          "link": "/speakers/tom",
+          "title": "Principal Engineer",
+          "company": "DVLA"
+        },
+        {
+          "name": "Dr. Fahad Anwar",
+          "link": "/speakers/fahad",
+          "title": "Head of Software Engineering",
+          "company": "ONS"
         }
       ],
       "type": "talk"
@@ -177,5 +203,6 @@
       "name": "Networking and Drinks - the venue will stay open till 22:00",
       "type": "break"
     }
+
   ]
 }
