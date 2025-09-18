@@ -137,6 +137,12 @@
           "alt": "Dr. Fahad Anwar",
           "link": "/speakers/fahad",
           "talk": "Empowering the government's developers through AI"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1758200693/PaulF_heaf0a.jpg",
+          "alt": "Paul Funnell",
+          "link": "/speakers/paul",
+          "talk": "Empowering the government's developers through AI"
         }
     ]
   },
@@ -304,7 +310,7 @@
     },
     {
       "time": "16:30",
-      "name": "Talk",
+      "name": "Closing Keynote",
       "title": "Empowering the government's developers through AI​​​",
       "speaker": [
         {
@@ -318,9 +324,15 @@
           "link": "/speakers/fahad",
           "title": "Head of Software Engineering",
           "company": "ONS"
+        },
+        {
+          "name": "Paul Funnell",
+          "link": "/speakers/paul",
+          "title": "Digital Development Manager",
+          "company": "Powys County Council"
         }
       ],
-      "type": "talk"
+      "type": "keynote"
     },  
     {
       "time": "17:15",

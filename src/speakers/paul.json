@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Paul Funnell",
+        "description": "Paul is the Digital Development Manager at Powys County Council, where he’s led pioneering work on responsible AI adoption across local government services. Chair of the WLGA AI and Technology Working Group and a regular contributor to national forums on practice and policy, Paul and his team fill the gaps and integrate between the multitude of vendor solutions in local government services. Recent work with AI includes summarisation for front line social work, consultation analysis for education, multiple self-service tools for all staff, and several AI-assisted translation solutions. With a technical generalist background in both private sector and public service, Paul brings a values-driven approach to digital innovation, focused on the needs of service users and staff, inclusion, and practical benefits.",
+        "url": "https://cardiff.serverlessdays.io/speakers/paul",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1758200693/PaulF_heaf0a.jpg"
+    },
+    "speaker": {
+        "name": "Paul Funnell",
+        "title": "Digital Development Manager, Powys County Council",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1758200693/PaulF_heaf0a.jpg",
+        "bio": "Paul is the Digital Development Manager at Powys County Council, where he’s led pioneering work on responsible AI adoption across local government services. Chair of the WLGA AI and Technology Working Group and a regular contributor to national forums on practice and policy, Paul and his team fill the gaps and integrate between the multitude of vendor solutions in local government services. Recent work with AI includes summarisation for front line social work, consultation analysis for education, multiple self-service tools for all staff, and several AI-assisted translation solutions. With a technical generalist background in both private sector and public service, Paul brings a values-driven approach to digital innovation, focused on the needs of service users and staff, inclusion, and practical benefits.",
+        "talk": {
+            "title": "Empowering the government's developers through AI​",
+            "abstract" : "Find out how different teams across local and central government are empowering their engineers to take advantage of AI to boost productivity. This talk brings together three Welsh based public sector organizations of different size and scale to look at how they are preparing and adapting their teams. Hear about the different journeys underway, and the various techniques and tools that are being adopted during a period of incredible change in the industry."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/paul-funnell-0491201/",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
